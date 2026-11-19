@@ -1,0 +1,4 @@
+reservation_id,passenger_id,flight_number,seat_id,payment_id,status
+847a6a96-317d-440e-b938-b0018d9dce97,59becefa-c769-4a55-acaf-25d16c7d9c55,15,1C,2cf71a38-bb79-47bb-b6ac-6c4198ed72e1,Confirmed
+
+2ce57c1e-048a-496f-86dd-d1223c129219,057afecf-6516-4227-8fab-d9a97bcf8da0,20,20F,bf6c4a09-5698-4d79-9cef-34496ce1bb26,Confirmed

@@ -1,0 +1,3 @@
+flight_number,origin,destination,departure_time,arrival_time,aircraft_id,status,price
+1,egypt,america,2026-12-12,2026-12-13,A106,Scheduled,5000
+15,egypt,america,2026-9-30 12:30,2026-9-30 20:30,A101,Scheduled,5000
