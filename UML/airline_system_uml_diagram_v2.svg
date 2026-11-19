@@ -1,0 +1,424 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2431 2745.0" font-family="Helvetica, Arial, sans-serif" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpmNjlmNWJlZi04YjgxLTRhOWUtODM4Ny0yM2MxM2EzNjA3ZDAAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaLKyfvrcw7lOQH4bh4bcIXQAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpmNzNlMWNmYy0wYWY4LTRjNTYtYTJlYi1kZTE5YzVlMzY5ZTZscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoBJg5PwkS4OwbRtbIboEZ4gAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggS4fNthAuRJRy0A8+uIoQYspbbqmglm+oZufX+K1r5x2kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaGyoM2MGI6AFGOIwqzjGLrkAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCDoAJ9O49uc169YiYhbJcDjuX0Ep+RaYr4NuIT4CT1zXWRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBisZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmY2OWY1YmVmLThiODEtNGE5ZS04Mzg3LTIzYzEzYTM2MDdkMC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjJmZWFiYWI3LWY4NWQtNGFjZC1iODcyLTNiYTAwM2QxOWI4N3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBLh822EC5ElHLQDz64ihBiyltuqaCWb6hm59f4rWvnHaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggNMtQbHq3OeKySkDfocmUm/t8kIJ5jDxrEaVahIKdW9aiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggQt2Z0Wqrh27G2RfQ16XtzZ1rZKn8XLCsV9feC/2JNeR0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQEe7a8LWLnFSYimVzWXlQLo0Bq5rzYzlXt0bcF3JzqEUHC3gh9XKRX5XGi2HvH/OLP1xVnhwWibrz6nkm1rLXdY=</c2pa:manifest></metadata>
+<rect x="0" y="0" width="2431" height="2745.0" fill="#FFFFFF"/>
+<defs>
+  <marker id="tri" viewBox="0 0 14 12" refX="12" refY="6" markerWidth="13" markerHeight="11" orient="auto">
+    <path d="M1,1 L12,6 L1,11 Z" fill="none" stroke="#555555" stroke-width="1.2"/>
+  </marker>
+  <marker id="ftri" viewBox="0 0 12 10" refX="10" refY="5" markerWidth="11" markerHeight="9" orient="auto">
+    <path d="M1,1 L10,5 L1,9 Z" fill="#555555" stroke="#555555" stroke-width="0.6"/>
+  </marker>
+</defs>
+<g transform="translate(0,90)">
+<text x="1215.5" y="-52" text-anchor="middle" font-size="21" font-weight="bold" fill="#111">Flight / Airline Reservation System &#8212; Class Diagram</text>
+<text x="1215.5" y="-30" text-anchor="middle" font-size="12.5" fill="#333">Seat and AirCraft are declared in the same header (AirCraft.h) but modeled as two separate classes</text>
+<rect x="584" y="1988.0" width="1433" height="627.0" rx="8" ry="8" fill="none" stroke="#999999" stroke-width="1.3" stroke-dasharray="6,3"/>
+<text x="598" y="2010.0" font-size="13" font-weight="bold" fill="#222">People  (Person.h, Admin.h, BookingAgent.h, Crew.h, Passenger.h)</text>
+<rect x="40" y="1988.0" width="454" height="572.5" rx="8" ry="8" fill="none" stroke="#999999" stroke-width="1.3" stroke-dasharray="6,3"/>
+<text x="54" y="2010.0" font-size="13" font-weight="bold" fill="#222">Fleet  (AirCraft.h)</text>
+<rect x="586.0" y="1103.0" width="1016.0" height="775.0" rx="8" ry="8" fill="none" stroke="#999999" stroke-width="1.3" stroke-dasharray="6,3"/>
+<text x="600.0" y="1125.0" font-size="13" font-weight="bold" fill="#222">Flight Operations  (Flight.h, Payment.h, Reservation.h)</text>
+<rect x="1036" y="110" width="1112" height="654.0" rx="8" ry="8" fill="none" stroke="#999999" stroke-width="1.3" stroke-dasharray="6,3"/>
+<text x="1050" y="132" font-size="13" font-weight="bold" fill="#222">Persistence  (FileHandler.h, DataStructs.h)</text>
+<rect x="40" y="110" width="906" height="883.0" rx="8" ry="8" fill="none" stroke="#999999" stroke-width="1.3" stroke-dasharray="6,3"/>
+<text x="54" y="132" font-size="13" font-weight="bold" fill="#222">System &amp; UI  (System.h, UI.h)</text>
+<rect x="2107" y="1988.0" width="284" height="289.5" rx="8" ry="8" fill="none" stroke="#999999" stroke-width="1.3" stroke-dasharray="6,3"/>
+<text x="2121" y="2010.0" font-size="13" font-weight="bold" fill="#222">Utilities  (sha256.h)</text>
+<path d="M749.5,2290 L1805.0,2290" fill="none" stroke="#555555" stroke-width="1.3"/>
+<path d="M749.5,2130.0 L749.5,2290" fill="none" stroke="#555555" stroke-width="1.3"/>
+<path d="M1103.5,2130.0 L1103.5,2290" fill="none" stroke="#555555" stroke-width="1.3"/>
+<path d="M1451.5,2251.5 L1451.5,2290" fill="none" stroke="#555555" stroke-width="1.3"/>
+<path d="M1805.0,2184.0 L1805.0,2290" fill="none" stroke="#555555" stroke-width="1.3"/>
+<path d="M1300.5,2290 L1300.5,2336.5" fill="none" stroke="#555555" stroke-width="1.3" marker-end="url(#tri)"/>
+<path d="M1414,600 L1388,600" fill="none" stroke="#555555" stroke-width="1.3" marker-end="url(#tri)"/>
+<path d="M267.0,2417.5 L267.0,2332.5" fill="none" stroke="#555555" stroke-width="1.3" marker-end="url(#ftri)"/>
+<text x="253.0" y="2346.5" font-size="10" text-anchor="middle" fill="#333">1</text>
+<text x="289.0" y="2411.5" font-size="10" text-anchor="middle" fill="#333">0..*</text>
+<text x="322.0" y="2375.0" font-size="10" text-anchor="middle" fill="#333">owns / seats</text>
+<path d="M267.0,2040.0 L267.0,1930 L820,1930 L820,1852.0" fill="none" stroke="#555555" stroke-width="1.3" marker-end="url(#ftri)"/>
+<text x="840.0" y="1868.0" font-size="10" text-anchor="middle" fill="#333">0..*</text>
+<text x="289.0" y="2032.0" font-size="10" text-anchor="middle" fill="#333">1</text>
+<text x="880" y="1918" font-size="10" text-anchor="middle" fill="#333">aircraft</text>
+<path d="M1805.0,2040.0 L1805.0,1965 L940,1965 L940,1852.0" fill="none" stroke="#555555" stroke-width="1.3" marker-end="url(#ftri)"/>
+<text x="970.0" y="1868.0" font-size="10" text-anchor="middle" fill="#333">1</text>
+<text x="1831.0" y="2032.0" font-size="10" text-anchor="middle" fill="#333">0..*</text>
+<text x="1350" y="1953" font-size="10" text-anchor="middle" fill="#333">passengers</text>
+<path d="M1030.0,1852.0 L1030.0,1948 L1451.5,1948 L1451.5,2040.0" fill="none" stroke="#555555" stroke-width="1.3" marker-end="url(#ftri)"/>
+<text x="1050.0" y="1868.0" font-size="10" text-anchor="middle" fill="#333">1</text>
+<text x="1477.5" y="2032.0" font-size="10" text-anchor="middle" fill="#333">0..*</text>
+<text x="1660" y="1936" font-size="10" text-anchor="middle" fill="#333">trips</text>
+<path d="M1362.0,1274.25 L1650,1274.25 L1650,1965 L1805.0,1965 L1805.0,2040.0" fill="none" stroke="#555555" stroke-width="1.3" marker-end="url(#ftri)"/>
+<text x="1376.0" y="1268" font-size="10" text-anchor="start" fill="#333">0..*</text>
+<text x="1827.0" y="2032.0" font-size="10" text-anchor="middle" fill="#333">1</text>
+<text x="1650" y="1262" font-size="10" text-anchor="middle" fill="#333">passenger</text>
+<path d="M1094.0,1393.5 L1094.0,1436 L880.0,1436 L880.0,1478.5" fill="none" stroke="#555555" stroke-width="1.3" marker-end="url(#ftri)"/>
+<text x="1064.0" y="1407.5" font-size="10" text-anchor="middle" fill="#333">0..*</text>
+<text x="902.0" y="1470.5" font-size="10" text-anchor="middle" fill="#333">1</text>
+<text x="1184.0" y="1424" font-size="10" text-anchor="middle" fill="#333">flight</text>
+<path d="M1387.0,1478.5 L1387.0,1436 L1200,1436 L1200,1393.5" fill="none" stroke="#555555" stroke-width="1.3" marker-end="url(#ftri)"/>
+<text x="1176" y="1407.5" font-size="10" text-anchor="middle" fill="#333">1</text>
+<text x="1413.0" y="1470.5" font-size="10" text-anchor="middle" fill="#333">0..1</text>
+<text x="1300" y="1424" font-size="10" text-anchor="middle" fill="#333">payment</text>
+<path d="M1187.5,2462.75 L20,2462.75 L20,766.75 L66,766.75" fill="none" stroke="#555555" stroke-width="1.3" marker-end="url(#ftri)"/>
+<text x="40" y="758.75" font-size="10" text-anchor="end" fill="#333">1</text>
+<text x="1161.5" y="2478.75" font-size="10" text-anchor="end" fill="#333">0..*</text>
+<text x="80" y="1614.75" font-size="10" text-anchor="middle" fill="#333">users</text>
+<path d="M612.0,1665.25 L550,1665.25 L550,1050 L363.5,1050 L363.5,967.0" fill="none" stroke="#555555" stroke-width="1.3" marker-end="url(#ftri)"/>
+<text x="333.5" y="981.0" font-size="10" text-anchor="middle" fill="#333">1</text>
+<text x="604.0" y="1657.25" font-size="10" text-anchor="end" fill="#333">0..*</text>
+<text x="560" y="1038" font-size="10" text-anchor="start" fill="#333">flights</text>
+<path d="M66,2186.25 L20,2186.25 L20,766.75 L66,766.75" fill="none" stroke="#555555" stroke-width="1.3" marker-end="url(#ftri)"/>
+<text x="58" y="2202.25" font-size="10" text-anchor="end" fill="#333">0..*</text>
+<text x="4" y="1476.5" font-size="10" text-anchor="start" fill="#333">fleet</text>
+<path d="M1094.0,1155.0 L1094.0,1050 L500,1050 L500,967.0" fill="none" stroke="#555555" stroke-width="1.3" marker-end="url(#ftri)"/>
+<text x="474" y="981.0" font-size="10" text-anchor="end" fill="#333">1</text>
+<text x="1116.0" y="1147.0" font-size="10" text-anchor="middle" fill="#333">0..*</text>
+<text x="700" y="1038" font-size="10" text-anchor="middle" fill="#333">reservations</text>
+<path d="M1889.5,328.5 L2410,328.5 L2410,2145.75 L2365,2145.75" fill="none" stroke="#555555" stroke-width="1.3" stroke-dasharray="6,3" marker-end="url(#ftri)"/>
+<text x="2149.75" y="320.5" font-size="10" text-anchor="middle" fill="#333">hashes</text>
+<path d="M661,700 L990,700 L990,328.5 L1294.5,328.5" fill="none" stroke="#555555" stroke-width="1.3" stroke-dasharray="6,3" marker-end="url(#ftri)"/>
+<text x="990" y="514.25" font-size="10" text-anchor="start" fill="#333">persists via</text>
+<path d="M661,766.75 L711,766.75" fill="none" stroke="#555555" stroke-width="1.3" stroke-dasharray="6,3" marker-end="url(#ftri)"/>
+<text x="686.0" y="760.75" font-size="10" text-anchor="middle" fill="#333">returns</text>
+<path d="M493.0,481.5 L493.0,524 L363.5,524 L363.5,566.5" fill="none" stroke="#555555" stroke-width="1.3" marker-end="url(#ftri)"/>
+<text x="471.0" y="495.5" font-size="10" text-anchor="middle" fill="#333">1</text>
+<text x="385.5" y="558.5" font-size="10" text-anchor="middle" fill="#333">1</text>
+<text x="433.5" y="512" font-size="10" text-anchor="middle" fill="#333">sys (reference)</text>
+<path d="M1592.0,495.0 L1592.0,537.5" fill="none" stroke="#555555" stroke-width="1.3" stroke-dasharray="6,3"/>
+<path d="M1137.0,537.5 L2041.0,537.5" fill="none" stroke="#555555" stroke-width="1.3" stroke-dasharray="6,3"/>
+<path d="M1137.0,537.5 L1137.0,580.0" fill="none" stroke="#555555" stroke-width="1.3" stroke-dasharray="6,3" marker-end="url(#ftri)"/>
+<text x="1163.0" y="551.5" font-size="10" text-anchor="start" fill="#333">returns</text>
+<path d="M1313.0,537.5 L1313.0,580.0" fill="none" stroke="#555555" stroke-width="1.3" stroke-dasharray="6,3" marker-end="url(#ftri)"/>
+<text x="1339.0" y="551.5" font-size="10" text-anchor="start" fill="#333">loads</text>
+<path d="M1492.0,537.5 L1492.0,580.0" fill="none" stroke="#555555" stroke-width="1.3" stroke-dasharray="6,3" marker-end="url(#ftri)"/>
+<text x="1518.0" y="551.5" font-size="10" text-anchor="start" fill="#333">loads</text>
+<path d="M1671.0,537.5 L1671.0,580.0" fill="none" stroke="#555555" stroke-width="1.3" stroke-dasharray="6,3" marker-end="url(#ftri)"/>
+<text x="1697.0" y="551.5" font-size="10" text-anchor="start" fill="#333">loads</text>
+<path d="M1853.0,537.5 L1853.0,580.0" fill="none" stroke="#555555" stroke-width="1.3" stroke-dasharray="6,3" marker-end="url(#ftri)"/>
+<text x="1879.0" y="551.5" font-size="10" text-anchor="start" fill="#333">loads</text>
+<path d="M2041.0,537.5 L2041.0,580.0" fill="none" stroke="#555555" stroke-width="1.3" stroke-dasharray="6,3" marker-end="url(#ftri)"/>
+<text x="2067.0" y="551.5" font-size="10" text-anchor="start" fill="#333">loads</text>
+<rect x="1187.5" y="2336.5" width="226" height="38" fill="#4A6FA5" stroke="none"/>
+<text x="1195.5" y="2350.5" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="white">&#171;abstract&#187;</text>
+<text x="1195.5" y="2364.5" font-family="Helvetica, Arial, sans-serif" font-size="12.5" font-weight="bold" fill="white">Person</text>
+<rect x="1187.5" y="2374.5" width="226" height="214.5" fill="#E8F0FE" stroke="none"/>
+<text x="1195.5" y="2389.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111"># name : string</text>
+<text x="1195.5" y="2403.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111"># password : string</text>
+<text x="1195.5" y="2416.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111"># email : string</text>
+<text x="1195.5" y="2430.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111"># age : int</text>
+<text x="1195.5" y="2443.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ Person(name, password, email, age)</text>
+<text x="1195.5" y="2457.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ setName(name)</text>
+<text x="1195.5" y="2470.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ setPassword(password)</text>
+<text x="1195.5" y="2484.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ setEmail(email)</text>
+<text x="1195.5" y="2497.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ setAge(age)</text>
+<text x="1195.5" y="2511.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ getName() : string</text>
+<text x="1195.5" y="2524.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ getPassword() : string</text>
+<text x="1195.5" y="2538.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ getEmail() : string</text>
+<text x="1195.5" y="2551.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ getAge() : int</text>
+<text x="1195.5" y="2565.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ {abstract} getID() : string</text>
+<text x="1195.5" y="2578.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ {abstract} display() : void</text>
+<rect x="1187.5" y="2336.5" width="226" height="252.5" fill="none" stroke="#4A6FA5" stroke-width="1.3"/>
+<rect x="610" y="2040.0" width="279" height="24" fill="#4A6FA5" stroke="none"/>
+<text x="618" y="2056.0" font-family="Helvetica, Arial, sans-serif" font-size="12.5" font-weight="bold" fill="white">Admin</text>
+<rect x="610" y="2064.0" width="279" height="66.0" fill="#E8F0FE" stroke="none"/>
+<text x="618" y="2079.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- Admin_id : string</text>
+<text x="618" y="2092.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ Admin(Admin_id, name, password, email, age)</text>
+<text x="618" y="2106.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ getID() : string</text>
+<text x="618" y="2119.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ display() : void</text>
+<rect x="610" y="2040.0" width="279" height="90.0" fill="none" stroke="#4A6FA5" stroke-width="1.3"/>
+<rect x="923" y="2040.0" width="361" height="24" fill="#4A6FA5" stroke="none"/>
+<text x="931" y="2056.0" font-family="Helvetica, Arial, sans-serif" font-size="12.5" font-weight="bold" fill="white">BookingAgent</text>
+<rect x="923" y="2064.0" width="361" height="66.0" fill="#E8F0FE" stroke="none"/>
+<text x="931" y="2079.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- BookingAgent_id : string</text>
+<text x="931" y="2092.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ BookingAgent(BookingAgent_id, name, password, email, age)</text>
+<text x="931" y="2106.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ getID() : string</text>
+<text x="931" y="2119.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ display() : void</text>
+<rect x="923" y="2040.0" width="361" height="90.0" fill="none" stroke="#4A6FA5" stroke-width="1.3"/>
+<rect x="1318" y="2040.0" width="267" height="24" fill="#4A6FA5" stroke="none"/>
+<text x="1326" y="2056.0" font-family="Helvetica, Arial, sans-serif" font-size="12.5" font-weight="bold" fill="white">Crew</text>
+<rect x="1318" y="2064.0" width="267" height="187.5" fill="#E8F0FE" stroke="none"/>
+<text x="1326" y="2079.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- {static} max_flight_hours : int</text>
+<text x="1326" y="2092.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- crew_id : string</text>
+<text x="1326" y="2106.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- status : bool</text>
+<text x="1326" y="2119.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- flight_hours : long long</text>
+<text x="1326" y="2133.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- trips : map&lt;string, shared_ptr&lt;Flight&gt;&gt;</text>
+<text x="1326" y="2146.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ Crew(crew_id, name, password, email, age)</text>
+<text x="1326" y="2160.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ getID() : string</text>
+<text x="1326" y="2173.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ getStatus() : bool</text>
+<text x="1326" y="2187.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ getFlightHours() : long long</text>
+<text x="1326" y="2200.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ setStatus(new_status)</text>
+<text x="1326" y="2214.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ setFlightHours(new_flight_hours)</text>
+<text x="1326" y="2227.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ display() : void</text>
+<text x="1326" y="2241.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ addFlight(shared_ptr&lt;Flight&gt;) : bool</text>
+<rect x="1318" y="2040.0" width="267" height="211.5" fill="none" stroke="#4A6FA5" stroke-width="1.3"/>
+<rect x="1619" y="2040.0" width="372" height="24" fill="#4A6FA5" stroke="none"/>
+<text x="1627" y="2056.0" font-family="Helvetica, Arial, sans-serif" font-size="12.5" font-weight="bold" fill="white">Passenger</text>
+<rect x="1619" y="2064.0" width="372" height="120.0" fill="#E8F0FE" stroke="none"/>
+<text x="1627" y="2079.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- Passenger_id : string</text>
+<text x="1627" y="2092.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- Credit : long long</text>
+<text x="1627" y="2106.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ Passenger(Passenger_id, name, password, email, age, Credit)</text>
+<text x="1627" y="2119.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ getID() : string</text>
+<text x="1627" y="2133.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ getCredit() : long long&amp;</text>
+<text x="1627" y="2146.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ setCredit(credit)</text>
+<text x="1627" y="2160.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ getPassengerId() : string&amp;</text>
+<text x="1627" y="2173.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ display() : void</text>
+<rect x="1619" y="2040.0" width="372" height="144.0" fill="none" stroke="#4A6FA5" stroke-width="1.3"/>
+<rect x="177.5" y="2417.5" width="179" height="24" fill="#34A853" stroke="none"/>
+<text x="185.5" y="2433.5" font-family="Helvetica, Arial, sans-serif" font-size="12.5" font-weight="bold" fill="white">Seat</text>
+<rect x="177.5" y="2441.5" width="179" height="93.0" fill="#E6F4EA" stroke="none"/>
+<text x="185.5" y="2456.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- id : string</text>
+<text x="185.5" y="2470.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- available : bool</text>
+<text x="185.5" y="2483.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ Seat(id, available = true)</text>
+<text x="185.5" y="2497.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ getId() : string&amp;</text>
+<text x="185.5" y="2510.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ isAvailable() : bool</text>
+<text x="185.5" y="2524.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ setAvailable(available)</text>
+<rect x="177.5" y="2417.5" width="179" height="117.0" fill="none" stroke="#34A853" stroke-width="1.3"/>
+<rect x="66" y="2040.0" width="402" height="24" fill="#34A853" stroke="none"/>
+<text x="74" y="2056.0" font-family="Helvetica, Arial, sans-serif" font-size="12.5" font-weight="bold" fill="white">AirCraft</text>
+<rect x="66" y="2064.0" width="402" height="268.5" fill="#E6F4EA" stroke="none"/>
+<text x="74" y="2079.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- aircraft_id : string</text>
+<text x="74" y="2092.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- aircraft_type : string</text>
+<text x="74" y="2106.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- capacity : size_t</text>
+<text x="74" y="2119.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- available : bool</text>
+<text x="74" y="2133.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- seats : map&lt;string, Seat&gt;</text>
+<text x="74" y="2146.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ AirCraft(aircraft_id, aircraft_type, capacity, available = true)</text>
+<text x="74" y="2160.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ getId() : string&amp;</text>
+<text x="74" y="2173.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ getType() : string&amp;</text>
+<text x="74" y="2187.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ getCapacity() : size_t</text>
+<text x="74" y="2200.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ isAvailable() : bool</text>
+<text x="74" y="2214.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ setAvailable(available)</text>
+<text x="74" y="2227.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ getSeats() : map&lt;string, Seat&gt;&amp;</text>
+<text x="74" y="2241.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ addSeat(seat_id) : bool</text>
+<text x="74" y="2254.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ selectSeat(seat_id) : bool</text>
+<text x="74" y="2268.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ reserveSeat(seat_id) : bool</text>
+<text x="74" y="2281.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ releaseSeat(seat_id) : bool</text>
+<text x="74" y="2295.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ findSeat(seat_id) : Seat*</text>
+<text x="74" y="2308.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ generateSeats() : void</text>
+<text x="74" y="2322.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ displaySeatMap() : void</text>
+<rect x="66" y="2040.0" width="402" height="292.5" fill="none" stroke="#34A853" stroke-width="1.3"/>
+<rect x="612.0" y="1478.5" width="536" height="24" fill="#F29900" stroke="none"/>
+<text x="620.0" y="1494.5" font-family="Helvetica, Arial, sans-serif" font-size="12.5" font-weight="bold" fill="white">Flight</text>
+<rect x="612.0" y="1502.5" width="536" height="349.5" fill="#FEF3E0" stroke="none"/>
+<text x="620.0" y="1517.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- flight_number : string</text>
+<text x="620.0" y="1531.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- origin : string</text>
+<text x="620.0" y="1544.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- destination : string</text>
+<text x="620.0" y="1558.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- departure_time : string</text>
+<text x="620.0" y="1571.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- arrival_time : string</text>
+<text x="620.0" y="1585.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- status : string</text>
+<text x="620.0" y="1598.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- price : double</text>
+<text x="620.0" y="1612.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- aircraft : shared_ptr&lt;AirCraft&gt;</text>
+<text x="620.0" y="1625.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- passengers : map&lt;string, shared_ptr&lt;Passenger&gt;&gt;</text>
+<text x="620.0" y="1639.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ Flight(flight_number, origin, destination, dep_time, arr_time, aircraft, status, price)</text>
+<text x="620.0" y="1652.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ getFlightNumber() : string&amp;</text>
+<text x="620.0" y="1666.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ getOrigin() : string&amp;</text>
+<text x="620.0" y="1679.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ getDestination() : string&amp;</text>
+<text x="620.0" y="1693.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ getDepartureTime() : string&amp;</text>
+<text x="620.0" y="1706.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ getArrivalTime() : string&amp;</text>
+<text x="620.0" y="1720.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ getStatus() : string&amp;</text>
+<text x="620.0" y="1733.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ getPrice() : double</text>
+<text x="620.0" y="1747.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ setStatus(status)</text>
+<text x="620.0" y="1760.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ setPrice(price)</text>
+<text x="620.0" y="1774.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ display() : void</text>
+<text x="620.0" y="1787.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ getAircraft() : shared_ptr&lt;AirCraft&gt;</text>
+<text x="620.0" y="1801.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ addPassenger(passenger) : bool</text>
+<text x="620.0" y="1814.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ deletePassenger(passenger_id) : bool</text>
+<text x="620.0" y="1828.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ findPassenger(passenger_id) : shared_ptr&lt;Passenger&gt;</text>
+<text x="620.0" y="1841.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ getPassengers() : map&lt;string, shared_ptr&lt;Passenger&gt;&gt;&amp;</text>
+<rect x="612.0" y="1478.5" width="536" height="373.5" fill="none" stroke="#F29900" stroke-width="1.3"/>
+<rect x="1198.0" y="1478.5" width="378" height="24" fill="#F29900" stroke="none"/>
+<text x="1206.0" y="1494.5" font-family="Helvetica, Arial, sans-serif" font-size="12.5" font-weight="bold" fill="white">Payment</text>
+<rect x="1198.0" y="1502.5" width="378" height="160.5" fill="#FEF3E0" stroke="none"/>
+<text x="1206.0" y="1517.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- payment_id : string</text>
+<text x="1206.0" y="1531.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- amount : double</text>
+<text x="1206.0" y="1544.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- payment_date : string</text>
+<text x="1206.0" y="1558.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- status : string</text>
+<text x="1206.0" y="1571.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ Payment(payment_id, amount, payment_date, status = "Failed")</text>
+<text x="1206.0" y="1585.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ getPaymentId() : string&amp;</text>
+<text x="1206.0" y="1598.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ getAmount() : double</text>
+<text x="1206.0" y="1612.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ getPaymentDate() : string&amp;</text>
+<text x="1206.0" y="1625.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ getStatus() : string&amp;</text>
+<text x="1206.0" y="1639.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ processPayment(user_credit&amp;) : bool</text>
+<text x="1206.0" y="1652.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ processRefund(user_credit&amp;) : bool</text>
+<rect x="1198.0" y="1478.5" width="378" height="184.5" fill="none" stroke="#F29900" stroke-width="1.3"/>
+<rect x="826.0" y="1155.0" width="536" height="24" fill="#F29900" stroke="none"/>
+<text x="834.0" y="1171.0" font-family="Helvetica, Arial, sans-serif" font-size="12.5" font-weight="bold" fill="white">Reservation</text>
+<rect x="826.0" y="1179.0" width="536" height="214.5" fill="#FEF3E0" stroke="none"/>
+<text x="834.0" y="1194.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- reservation_id : string</text>
+<text x="834.0" y="1207.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- passenger : shared_ptr&lt;Passenger&gt;</text>
+<text x="834.0" y="1221.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- flight : shared_ptr&lt;Flight&gt;</text>
+<text x="834.0" y="1234.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- payment : shared_ptr&lt;Payment&gt;</text>
+<text x="834.0" y="1248.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- seat_id : string</text>
+<text x="834.0" y="1261.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- status : string</text>
+<text x="834.0" y="1275.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ Reservation(reservation_id, passenger, flight, seat_id, payment, status = "Waitlisted")</text>
+<text x="834.0" y="1288.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ getReservationId() : string&amp;</text>
+<text x="834.0" y="1302.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ getPassenger() : shared_ptr&lt;Passenger&gt;</text>
+<text x="834.0" y="1315.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ getFlight() : shared_ptr&lt;Flight&gt;</text>
+<text x="834.0" y="1329.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ getSeatId() : string&amp;</text>
+<text x="834.0" y="1342.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ getPayment() : shared_ptr&lt;Payment&gt;</text>
+<text x="834.0" y="1356.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ getStatus() : string&amp;</text>
+<text x="834.0" y="1369.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ confirmReservation(user_credit&amp;) : bool</text>
+<text x="834.0" y="1383.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ cancelReservation(user_credit&amp;) : bool</text>
+<rect x="826.0" y="1155.0" width="536" height="238.5" fill="none" stroke="#F29900" stroke-width="1.3"/>
+<rect x="1294.5" y="162" width="595" height="24" fill="#9334E6" stroke="none"/>
+<text x="1302.5" y="178" font-family="Helvetica, Arial, sans-serif" font-size="12.5" font-weight="bold" fill="white">FileHandler</text>
+<rect x="1294.5" y="186" width="595" height="309.0" fill="#F3E8FD" stroke="none"/>
+<text x="1302.5" y="201" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- file : fstream</text>
+<text x="1302.5" y="214.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- file_name : string</text>
+<text x="1302.5" y="228.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- IS_User_Name_Present(name) : bool</text>
+<text x="1302.5" y="241.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ FileHandler(file_name)</text>
+<text x="1302.5" y="255.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ Change_Password(target_id, new_password)</text>
+<text x="1302.5" y="268.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ Get_Hashed_Password(target_username) : optional&lt;UserInfo&gt;</text>
+<text x="1302.5" y="282.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ Save_User(name, password, email, age, id) : bool</text>
+<text x="1302.5" y="295.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ Save_Passenger(name, password, email, age, id, credit) : bool</text>
+<text x="1302.5" y="309.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ Save_Aircraft(aircraft_id, type, capacity, status = true) : bool</text>
+<text x="1302.5" y="322.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ Save_Flight(flight_number, origin, destination, dep, arr, aircraft_id, status, price) : bool</text>
+<text x="1302.5" y="336.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ Save_Reservation(reservation_id, passenger_id, flight_number, seat_id, payment_id, status) : bool</text>
+<text x="1302.5" y="349.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ Save_CrewFlight(crew_id, flight_id) : bool</text>
+<text x="1302.5" y="363.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ Update_Reservation_Status(reservation_id, status) : bool</text>
+<text x="1302.5" y="376.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ Update_Aircraft_status(aircraft_id, status) : bool</text>
+<text x="1302.5" y="390.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ Update_Passenger_Credit(passenger_id, new_credit) : bool</text>
+<text x="1302.5" y="403.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ Delete_Record(target_id, id_column_index = 0) : bool</text>
+<text x="1302.5" y="417.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ Load_Users() : vector&lt;UserData&gt;</text>
+<text x="1302.5" y="430.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ Load_Aircraft() : vector&lt;AircraftData&gt;</text>
+<text x="1302.5" y="444.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ Load_Flights() : vector&lt;FlightData&gt;</text>
+<text x="1302.5" y="457.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ Load_Reservations() : vector&lt;ReservationData&gt;</text>
+<text x="1302.5" y="471.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ Load_Passengers() : vector&lt;PassengerData&gt;</text>
+<text x="1302.5" y="484.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ ~FileHandler()</text>
+<rect x="1294.5" y="162" width="595" height="333.0" fill="none" stroke="#9334E6" stroke-width="1.3"/>
+<rect x="1062" y="580.0" width="150" height="38" fill="#9334E6" stroke="none"/>
+<text x="1070" y="594.0" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="white">&#171;struct&#187;</text>
+<text x="1070" y="608.0" font-family="Helvetica, Arial, sans-serif" font-size="12.5" font-weight="bold" fill="white">UserInfo</text>
+<rect x="1062" y="618.0" width="150" height="39.0" fill="#F3E8FD" stroke="none"/>
+<text x="1070" y="633.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ id : string</text>
+<text x="1070" y="646.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ password : string</text>
+<rect x="1062" y="580.0" width="150" height="77.0" fill="none" stroke="#9334E6" stroke-width="1.3"/>
+<rect x="1238" y="580.0" width="150" height="38" fill="#9334E6" stroke="none"/>
+<text x="1246" y="594.0" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="white">&#171;struct&#187;</text>
+<text x="1246" y="608.0" font-family="Helvetica, Arial, sans-serif" font-size="12.5" font-weight="bold" fill="white">UserData</text>
+<rect x="1238" y="618.0" width="150" height="79.5" fill="#F3E8FD" stroke="none"/>
+<text x="1246" y="633.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ id : string</text>
+<text x="1246" y="646.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ name : string</text>
+<text x="1246" y="660.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ password : string</text>
+<text x="1246" y="673.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ age : int</text>
+<text x="1246" y="687.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ email : string</text>
+<rect x="1238" y="580.0" width="150" height="117.5" fill="none" stroke="#9334E6" stroke-width="1.3"/>
+<rect x="1414" y="580.0" width="156" height="38" fill="#9334E6" stroke="none"/>
+<text x="1422" y="594.0" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="white">&#171;struct&#187;</text>
+<text x="1422" y="608.0" font-family="Helvetica, Arial, sans-serif" font-size="12.5" font-weight="bold" fill="white">PassengerData</text>
+<rect x="1414" y="618.0" width="156" height="25.5" fill="#F3E8FD" stroke="none"/>
+<text x="1422" y="633.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ credit : long long = 0</text>
+<rect x="1414" y="580.0" width="156" height="63.5" fill="none" stroke="#9334E6" stroke-width="1.3"/>
+<rect x="1596" y="580.0" width="150" height="38" fill="#9334E6" stroke="none"/>
+<text x="1604" y="594.0" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="white">&#171;struct&#187;</text>
+<text x="1604" y="608.0" font-family="Helvetica, Arial, sans-serif" font-size="12.5" font-weight="bold" fill="white">AircraftData</text>
+<rect x="1596" y="618.0" width="150" height="66.0" fill="#F3E8FD" stroke="none"/>
+<text x="1604" y="633.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ aircraft_id : string</text>
+<text x="1604" y="646.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ type : string</text>
+<text x="1604" y="660.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ capacity : int</text>
+<text x="1604" y="673.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ status : bool</text>
+<rect x="1596" y="580.0" width="150" height="104.0" fill="none" stroke="#9334E6" stroke-width="1.3"/>
+<rect x="1772" y="580.0" width="162" height="38" fill="#9334E6" stroke="none"/>
+<text x="1780" y="594.0" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="white">&#171;struct&#187;</text>
+<text x="1780" y="608.0" font-family="Helvetica, Arial, sans-serif" font-size="12.5" font-weight="bold" fill="white">FlightData</text>
+<rect x="1772" y="618.0" width="162" height="120.0" fill="#F3E8FD" stroke="none"/>
+<text x="1780" y="633.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ flight_number : string</text>
+<text x="1780" y="646.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ origin : string</text>
+<text x="1780" y="660.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ destination : string</text>
+<text x="1780" y="673.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ departure_time : string</text>
+<text x="1780" y="687.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ arrival_time : string</text>
+<text x="1780" y="700.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ aircraft_id : string</text>
+<text x="1780" y="714.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ status : string</text>
+<text x="1780" y="727.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ price : double = 0.0</text>
+<rect x="1772" y="580.0" width="162" height="158.0" fill="none" stroke="#9334E6" stroke-width="1.3"/>
+<rect x="1960" y="580.0" width="162" height="38" fill="#9334E6" stroke="none"/>
+<text x="1968" y="594.0" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="white">&#171;struct&#187;</text>
+<text x="1968" y="608.0" font-family="Helvetica, Arial, sans-serif" font-size="12.5" font-weight="bold" fill="white">ReservationData</text>
+<rect x="1960" y="618.0" width="162" height="93.0" fill="#F3E8FD" stroke="none"/>
+<text x="1968" y="633.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ reservation_id : string</text>
+<text x="1968" y="646.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ passenger_id : string</text>
+<text x="1968" y="660.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ flight_number : string</text>
+<text x="1968" y="673.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ seat_id : string</text>
+<text x="1968" y="687.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ payment_id : string</text>
+<text x="1968" y="700.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ status : string</text>
+<rect x="1960" y="580.0" width="162" height="131.0" fill="none" stroke="#9334E6" stroke-width="1.3"/>
+<rect x="711" y="728.25" width="209" height="38" fill="#12857A" stroke="none"/>
+<text x="719" y="742.25" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="white">&#171;struct&#187;</text>
+<text x="719" y="756.25" font-family="Helvetica, Arial, sans-serif" font-size="12.5" font-weight="bold" fill="white">Udata</text>
+<rect x="711" y="766.25" width="209" height="39.0" fill="#E0F5F5" stroke="none"/>
+<text x="719" y="781.25" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ id : string</text>
+<text x="719" y="794.75" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ requires_password_change : bool</text>
+<rect x="711" y="728.25" width="209" height="77.0" fill="none" stroke="#12857A" stroke-width="1.3"/>
+<rect x="66" y="566.5" width="595" height="24" fill="#12857A" stroke="none"/>
+<text x="74" y="582.5" font-family="Helvetica, Arial, sans-serif" font-size="12.5" font-weight="bold" fill="white">System</text>
+<rect x="66" y="590.5" width="595" height="376.5" fill="#E0F5F5" stroke="none"/>
+<text x="74" y="605.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- reservation_mutex : mutex</text>
+<text x="74" y="619.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- users : map&lt;string, shared_ptr&lt;Person&gt;&gt;</text>
+<text x="74" y="632.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- flights : map&lt;string, shared_ptr&lt;Flight&gt;&gt;</text>
+<text x="74" y="646.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- fleet : map&lt;string, shared_ptr&lt;AirCraft&gt;&gt;</text>
+<text x="74" y="659.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- reservations : map&lt;string, shared_ptr&lt;Reservation&gt;&gt;</text>
+<text x="74" y="673.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- generate_uuid() : string</text>
+<text x="74" y="686.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- isAdmin(id) : bool</text>
+<text x="74" y="700.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- isPasswordDefaulted(tested_password) : bool</text>
+<text x="74" y="713.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ Login(login_choice, entered_name&amp;, password&amp;) : optional&lt;Udata&gt;</text>
+<text x="74" y="727.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ createStaffUser(admin_id, role, name, password, email, age) : bool</text>
+<text x="74" y="740.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ registerUser(name, password, email, age) : bool</text>
+<text x="74" y="754.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ addPassengerCredit(passenger_id, amount) : bool</text>
+<text x="74" y="767.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ removeUser(admin_id, id) : void</text>
+<text x="74" y="781.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ addAircraft(admin_id, aircraft_id, type, capacity, status = true) : bool</text>
+<text x="74" y="794.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ scheduleFlight(admin_id, flight_number, origin, destination, dep, arr, aircraft_id, price) : bool</text>
+<text x="74" y="808.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ UpdateUserPassword(login_choice, userId, new_password) : void</text>
+<text x="74" y="821.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ getUser(id) : shared_ptr&lt;Person&gt;</text>
+<text x="74" y="835.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ makeReservation(passenger_id, flight_number, seat_id) : bool</text>
+<text x="74" y="848.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ getReservationsForPassenger(passenger_id) : vector&lt;shared_ptr&lt;Reservation&gt;&gt;</text>
+<text x="74" y="862.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ cancelReservation(requester_id, reservation_id) : bool</text>
+<text x="74" y="875.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ getCurrentDate() : string</text>
+<text x="74" y="889.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ loadData() : bool</text>
+<text x="74" y="902.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ searchFlights(origin, destination, max_price, dep_date) : vector&lt;shared_ptr&lt;Flight&gt;&gt;</text>
+<text x="74" y="916.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ sortByPrice(flight_list&amp;, ascending = true) : void</text>
+<text x="74" y="929.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ sortByDepartureTime(flight_list&amp;) : void</text>
+<text x="74" y="943.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ assignCrewMemberToFlight(id, f_id) : bool</text>
+<text x="74" y="956.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ showSeats(flight_id) : bool</text>
+<rect x="66" y="566.5" width="595" height="400.5" fill="none" stroke="#12857A" stroke-width="1.3"/>
+<rect x="318.5" y="162" width="349" height="24" fill="#12857A" stroke="none"/>
+<text x="326.5" y="178" font-family="Helvetica, Arial, sans-serif" font-size="12.5" font-weight="bold" fill="white">UI</text>
+<rect x="318.5" y="186" width="349" height="295.5" fill="#E0F5F5" stroke="none"/>
+<text x="326.5" y="201" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- sys : System&amp;</text>
+<text x="326.5" y="214.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- clearInputBuffer()</text>
+<text x="326.5" y="228.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- readLine(prompt) : string</text>
+<text x="326.5" y="241.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- readNonNegativeAmount(prompt) : double</text>
+<text x="326.5" y="255.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- readPositiveSize(prompt) : size_t</text>
+<text x="326.5" y="268.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- displayDateTimeFormatNotice()</text>
+<text x="326.5" y="282.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- handleRegistration()</text>
+<text x="326.5" y="295.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- handleLogin()</text>
+<text x="326.5" y="309.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- passengerDashboard(userId)</text>
+<text x="326.5" y="322.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- agentDashboard(userId)</text>
+<text x="326.5" y="336.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- crewDashboard(userId)</text>
+<text x="326.5" y="349.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- adminDashboard(userId)</text>
+<text x="326.5" y="363.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- handleFlightSearch()</text>
+<text x="326.5" y="376.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- handleBooking(passengerId)</text>
+<text x="326.5" y="390.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- handlePassengerCredit(passengerId)</text>
+<text x="326.5" y="403.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- displayReservations(passengerId)</text>
+<text x="326.5" y="417.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- searchPassengerReservations(passengerId)</text>
+<text x="326.5" y="430.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- handleReservationCancellation(requesterId, agentAction)</text>
+<text x="326.5" y="444.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- addAircraftEntry(adminId)</text>
+<text x="326.5" y="457.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ UI(shared_system)</text>
+<text x="326.5" y="471.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ interact()</text>
+<rect x="318.5" y="162" width="349" height="319.5" fill="none" stroke="#12857A" stroke-width="1.3"/>
+<rect x="2133" y="2040.0" width="232" height="24" fill="#5F6368" stroke="none"/>
+<text x="2141" y="2056.0" font-family="Helvetica, Arial, sans-serif" font-size="12.5" font-weight="bold" fill="white">SHA256</text>
+<rect x="2133" y="2064.0" width="232" height="187.5" fill="#F1F3F4" stroke="none"/>
+<text x="2141" y="2079.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- m_numBytes : uint64_t</text>
+<text x="2141" y="2092.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- m_bufferSize : size_t</text>
+<text x="2141" y="2106.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- m_buffer : uint8_t[64]</text>
+<text x="2141" y="2119.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- m_hash : uint32_t[8]</text>
+<text x="2141" y="2133.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ SHA256()</text>
+<text x="2141" y="2146.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ operator()(data, numBytes) : string</text>
+<text x="2141" y="2160.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ operator()(text) : string</text>
+<text x="2141" y="2173.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ add(data, numBytes)</text>
+<text x="2141" y="2187.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ getHash() : string</text>
+<text x="2141" y="2200.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ getHash(buffer)</text>
+<text x="2141" y="2214.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">+ reset()</text>
+<text x="2141" y="2227.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- processBlock(data)</text>
+<text x="2141" y="2241.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">- processBuffer()</text>
+<rect x="2133" y="2040.0" width="232" height="211.5" fill="none" stroke="#5F6368" stroke-width="1.3"/>
+</g>
+</svg>
